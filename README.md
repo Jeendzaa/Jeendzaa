@@ -10,7 +10,7 @@
 
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeendzaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeendzaa)](https://github.com/anuraghazra/github-readme-stats)
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=discord,ps,kotlin,cs,dotnet,github,visualstudio,latex,windows,apple&perline=5&theme=dark" />
