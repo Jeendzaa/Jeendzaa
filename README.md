@@ -56,8 +56,8 @@ Technologies I work with:
         - Entity Framework Core </br>
         - MSSQL </br></br>
         Repository: </br>
-        - API: https://github.com/Jeendzaa/FitApp </br>
-        - App: https://github.com/Jeendzaa/FitApp.App </br>
+        ![Static Badge](https://img.shields.io/badge/API-green?label=API%20%20repository&link=https%3A%2F%2Fgithub.com%2FJeendzaa%2FFitApp)
+        ![Static Badge](https://img.shields.io/badge/APP-blue?label=APP%20repository&link=https%3A%2F%2Fgithub.com%2FJeendzaa%2FFitApp.App)
     </th>
   </tr>
 </table>
