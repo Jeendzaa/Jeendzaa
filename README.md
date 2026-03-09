@@ -48,16 +48,23 @@ Technologies I work with:
 <table align="left">
   <tr>
     <th align="left">
-      <h2>FitApp</h2>
+      <h2>🏋️ FitApp 📱</h2>
         Mobile application connected with a REST API backend. </br></br>
         Tech stack </br>
+          <p>
+            <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark"/>
+          </p>
         - .NET </br>
         - ASP.NET Core </br>
         - Entity Framework Core </br>
         - MSSQL </br></br>
-        Repository: </br>
-        ![Static Badge](https://img.shields.io/badge/API-green?label=API%20%20repository&link=https%3A%2F%2Fgithub.com%2FJeendzaa%2FFitApp)
-        ![Static Badge](https://img.shields.io/badge/APP-blue?label=APP%20repository&link=https%3A%2F%2Fgithub.com%2FJeendzaa%2FFitApp.App)
+        Repositories: </br>
+        <a href="https://github.com/Jeendzaa/FitApp">
+          <img src="https://img.shields.io/badge/repository-gray?style=for-the-badge&label=API&labelColor=red">
+        </a>
+        <a href="https://github.com/Jeendzaa/FitApp.App"/>
+          <img src="https://img.shields.io/badge/repository-gray?style=for-the-badge&label=APP&labelColor=blue">
+        </a>
     </th>
   </tr>
 </table>
